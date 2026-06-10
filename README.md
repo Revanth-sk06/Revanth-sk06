@@ -47,7 +47,7 @@
 
 ## 📊 Quick Stats
 
-- 🎓 B.Tech CSBS · GPA 8.2/10.0 · SRM TRP Engineering College
+- 🎓 B.Tech CSBS · GPA 8.2/10.0 · Nehru institute of engineering and technology, Coimbatore 
 - 💡 3+ internships across NLP, ML, and data engineering
 - 🌍 Based in Salem, Tamil Nadu · Open to remote/hybrid roles
 
